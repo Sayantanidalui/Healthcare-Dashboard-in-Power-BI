@@ -100,5 +100,11 @@ IV.	Expand doctor performance analysis using sentiment-based feedback.
 The Medihope Hospital dashboard is a valuable decision-support tool offering real-time insights into patient care, diagnosis trends, doctor engagement, and financial management. It supports hospital administrators and healthcare professionals in identifying trends, optimizing resource usage, and improving overall service quality.
 
 
+The Dashboard:
+
+![Screenshot (167)](https://github.com/user-attachments/assets/cf2fe04c-11af-4a5b-90d7-ce45e6827c91)
+
+
+
 
 
