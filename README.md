@@ -4,7 +4,7 @@
 This project focuses on developing a comprehensive, interactive dashboard for Medihope Hospital to monitor patient flow, diagnosis trends, doctor feedback, bed occupancy, and financial metrics. It provides a data-driven approach to hospital management and decision-making by visualizing critical KPIs in a single view.
 
 
-<b>Objective</b>
+## Objective
 
 •	To track patient admission, discharge, and follow-up cycles.
 
@@ -16,7 +16,7 @@ This project focuses on developing a comprehensive, interactive dashboard for Me
 
 •	To compare billing amounts with health insurance claims.
 
-<b>Key Features</b>
+## Key Features
 
 1.	Patient ID Filter: Focus on individual patient journeys.
 
@@ -39,7 +39,7 @@ This project focuses on developing a comprehensive, interactive dashboard for Me
 
 6.	Financial Overview: Line chart comparing sum of billing vs. health insurance claims for each diagnosis.
 
-<b>Final Results</b>
+## Final Results
 
 1.	Total Billing Amount: ₹190.43 Million
 
@@ -71,7 +71,7 @@ This project focuses on developing a comprehensive, interactive dashboard for Me
     
     •	Fracture: Insurance claim slightly higher than billing (₹8M vs. ₹7M)
 
-<b>Discussion</b>
+**Discussion**
 
 I.	The high preference for private beds indicates patient demand for comfort.
 
@@ -84,20 +84,16 @@ IV.	Balanced feedback among doctors reflects consistent quality of care.
 V.	Strong insurance coverage aligns with patient affordability and streamlined claim processing.
 
 
-<b>Future Improvements</b>
+**Future Improvements**
 
 I.	Add patient demographic analysis (age, gender, region).
 
 II.	Implement drill-through functionality for diagnosis-level patient details.
 
-III.	Include real-time data refresh using a connected database.
+III. Include real-time data refresh using a connected database.
 
 IV.	Expand doctor performance analysis using sentiment-based feedback.
 
-
-<b>Conclusion</b>
-
-The Medihope Hospital dashboard is a valuable decision-support tool offering real-time insights into patient care, diagnosis trends, doctor engagement, and financial management. It supports hospital administrators and healthcare professionals in identifying trends, optimizing resource usage, and improving overall service quality.
 
 
 The Dashboard:
@@ -105,6 +101,9 @@ The Dashboard:
 ![Screenshot (167)](https://github.com/user-attachments/assets/cf2fe04c-11af-4a5b-90d7-ce45e6827c91)
 
 
+## Conclusion
+
+The Medihope Hospital dashboard is a valuable decision-support tool offering real-time insights into patient care, diagnosis trends, doctor engagement, and financial management. It supports hospital administrators and healthcare professionals in identifying trends, optimizing resource usage, and improving overall service quality.
 
 
 
