@@ -1,109 +1,41 @@
-# Healthcare-Dashboard-in-Power-BI
-<b>Project Description</b>
+# 🏥 Healthcare Dashboard in Power BI
 
-This project focuses on developing a comprehensive, interactive dashboard for Medihope Hospital to monitor patient flow, diagnosis trends, doctor feedback, bed occupancy, and financial metrics. It provides a data-driven approach to hospital management and decision-making by visualizing critical KPIs in a single view.
+A comprehensive Power BI dashboard built for *Medihope Hospital* to monitor patient flow, diagnosis trends, doctor feedback, bed occupancy, and financial metrics — enabling data-driven decisions in hospital management.
 
+## 🎯 Objectives
 
-## Objective
+- Track admissions, discharges & follow-ups  
+- Analyze diagnosis frequency  
+- Monitor bed occupancy levels  
+- Evaluate doctor feedback  
+- Compare billing vs. insurance claims  
 
-•	To track patient admission, discharge, and follow-up cycles.
+## 📊 Key Features
 
-•	To analyse diagnosis types and frequency.
+- *Patient Filter:* View individual patient journeys  
+- *KPIs:* Admit, Discharge, Follow-up Dates & Total Bill  
+- *Bed Usage:* Bar chart for Private, General, ICU beds  
+- *Diagnosis Trends:* Top 6 diagnoses by patient count  
+- *Doctor Feedback:* Donut chart with equal volume  
+- *Financial View:* Line chart - Billing vs. Insurance  
 
-•	To monitor bed occupancy across different facilities.
+## 📈 Highlights
 
-•	To evaluate doctor performance through feedback volume.
+- 💰 *Total Billing:* ₹190.43M  
+- 🦠 *Top Diagnoses:* Viral (2K), Flu (1.72K), Malaria (1.43K)  
+- 🛏 *Bed Preference:* Private > General > ICU  
+- 👨‍⚕ *Feedback:* Balanced across all 7 doctors  
+- 🧾 *Insurance Match:* High alignment across conditions  
 
-•	To compare billing amounts with health insurance claims.
+## 🚀 Future Scope
 
-## Key Features
+- Add demographics (age, gender, region)  
+- Enable drill-through by diagnosis  
+- Connect real-time data sources  
+- Advanced sentiment-based feedback analysis  
 
-1.	Patient ID Filter: Focus on individual patient journeys.
+![Dashboard Screenshot](https://github.com/user-attachments/assets/cf2fe04c-11af-4a5b-90d7-ce45e6827c91)
 
-2.	KPIs Displayed:
+## ✅ Conclusion
 
-    •	Admit Date
-    
-    •	Discharge Date
-    
-    •	Follow-Up Date
-    
-    •	Total Bill Amount
-
-
-3.	Bed Occupancy Visualization: Bar chart showcasing occupancy of Private, General, and ICU beds.
-
-4.	Diagnosis Type Breakdown: Horizontal bar chart displaying case counts of six major diagnoses.
-
-5.	Doctor Feedback: Donut chart indicating equal volume of patient feedback across seven doctors.
-
-6.	Financial Overview: Line chart comparing sum of billing vs. health insurance claims for each diagnosis.
-
-## Final Results
-
-1.	Total Billing Amount: ₹190.43 Million
-
-2.	Top Diagnoses:
-
-    •	Viral Infection: 2.00K patients
-    
-    •	Flu: 1.72K
-    
-    •	Malaria: 1.43K
-
-
-3.	Bed Usage:
-
-    •	Private Beds: Highest (approx. 4K)
-    
-    •	General Beds: Moderate
-    
-    •	ICU Beds: Lowest
-
-
-4.	Doctor Feedback: Equally distributed (approx. 1.02K per doctor)
-
-5.	Insurance Coverage:
-
-    •	Viral Infection: ₹48M billed, ₹39M insured
-    
-    •	Flu: ₹46M billed, ₹41M insured
-    
-    •	Fracture: Insurance claim slightly higher than billing (₹8M vs. ₹7M)
-
-**Discussion**
-
-I.	The high preference for private beds indicates patient demand for comfort.
-
-II.	Seasonal diseases like viral infections and flu dominate, suggesting the need for preventive measures.
-
-III.	Low ICU occupancy could be a sign of effective early interventions or may require further assessment.
-
-IV.	Balanced feedback among doctors reflects consistent quality of care.
-
-V.	Strong insurance coverage aligns with patient affordability and streamlined claim processing.
-
-
-**Future Improvements**
-
-I.	Add patient demographic analysis (age, gender, region).
-
-II.	Implement drill-through functionality for diagnosis-level patient details.
-
-III. Include real-time data refresh using a connected database.
-
-IV.	Expand doctor performance analysis using sentiment-based feedback.
-
-
-
-The Dashboard:
-
-![Screenshot (167)](https://github.com/user-attachments/assets/cf2fe04c-11af-4a5b-90d7-ce45e6827c91)
-
-
-## Conclusion
-
-The Medihope Hospital dashboard is a valuable decision-support tool offering real-time insights into patient care, diagnosis trends, doctor engagement, and financial management. It supports hospital administrators and healthcare professionals in identifying trends, optimizing resource usage, and improving overall service quality.
-
-
-
+This dashboard empowers healthcare professionals with actionable insights, helping improve resource allocation, care quality, and financial efficiency at Medihope Hospital.
