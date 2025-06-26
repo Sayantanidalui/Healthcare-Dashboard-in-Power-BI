@@ -1,6 +1,6 @@
 # 🏥 Healthcare Dashboard in Power BI
 
-A comprehensive Power BI dashboard built for *Medihope Hospital* to monitor patient flow, diagnosis trends, doctor feedback, bed occupancy, and financial metrics — enabling data-driven decisions in hospital management.
+A comprehensive Power BI dashboard built for **Medihope Hospital** to monitor patient flow, diagnosis trends, doctor feedback, bed occupancy, and financial metrics — enabling data-driven decisions in hospital management.
 
 ## 🎯 Objectives
 
@@ -12,20 +12,20 @@ A comprehensive Power BI dashboard built for *Medihope Hospital* to monitor pati
 
 ## 📊 Key Features
 
-- *Patient Filter:* View individual patient journeys  
-- *KPIs:* Admit, Discharge, Follow-up Dates & Total Bill  
-- *Bed Usage:* Bar chart for Private, General, ICU beds  
-- *Diagnosis Trends:* Top 6 diagnoses by patient count  
-- *Doctor Feedback:* Donut chart with equal volume  
-- *Financial View:* Line chart - Billing vs. Insurance  
+- **Patient Filter:** View individual patient journeys  
+- **KPIs:** Admit, Discharge, Follow-up Dates & Total Bill  
+- **Bed Usage:** Bar chart for Private, General, ICU beds  
+- **Diagnosis Trends:** Top 6 diagnoses by patient count  
+- **Doctor Feedback:** Donut chart with equal volume  
+- **Financial View:** Line chart - Billing vs. Insurance  
 
 ## 📈 Highlights
 
-- 💰 *Total Billing:* ₹190.43M  
-- 🦠 *Top Diagnoses:* Viral (2K), Flu (1.72K), Malaria (1.43K)  
-- 🛏 *Bed Preference:* Private > General > ICU  
-- 👨‍⚕ *Feedback:* Balanced across all 7 doctors  
-- 🧾 *Insurance Match:* High alignment across conditions  
+- 💰 **Total Billing:** ₹190.43M  
+- 🦠 **Top Diagnoses:** Viral (2K), Flu (1.72K), Malaria (1.43K)  
+- 🛏 **Bed Preference:** Private > General > ICU  
+- 👨‍⚕ **Feedback:** Balanced across all 7 doctors  
+- 🧾 **Insurance Match:** High alignment across conditions  
 
 ## 🚀 Future Scope
 
